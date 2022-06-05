@@ -1,4 +1,4 @@
 * linguist-vendored
 *.C++ linguist-vendored=false
-*.Dart linguist-detectable=true
+*.dart linguist-vendorede=Dart
 *.Flutter linguist-detectable=true
