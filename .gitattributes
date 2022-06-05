@@ -1,1 +1,4 @@
+* linguist-vendored
+*.C++ linguist-vendored=false
 *.dart linguist-detectable=true
+
